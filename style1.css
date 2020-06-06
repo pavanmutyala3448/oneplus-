@@ -1,0 +1,91 @@
+body{
+  background-image: url('https://www.91-img.com/gallery_images_uploads/1/7/170ce6980fb337f0c31afa4d7b083b1efe3f0a46.jpeg?tr=h-550,w-0,c-at_max');
+  background-size:cover;
+
+}
+.ff{
+  margin: 50px 0;
+
+}
+.middle-2 .ff table{
+background-color:#0002;
+
+
+
+}
+.ff table tr td{
+  padding: 20px 20px 5px 20px;
+}
+.middle-2{
+  margin-top: 150px;
+  text-align: center;
+
+
+}
+::placeholder{
+  color:white;
+  padding: 2px;
+  margin: 2px;
+}
+.middle-2 h2{
+  font-size: 70px;
+  font-style: italic;
+  font-family:fantasy;
+  margin-bottom:30px;
+  color:white;
+}
+table {
+  text-align: center;
+  margin: auto;
+  margin-top: 0;
+
+}
+table tr td input{
+  background-color: #0001;
+  border-style: none none solid none;
+  border-color:black;
+  margin: 30px;
+  width:13rem;
+  outline-style: none;
+  color:black;
+
+
+
+
+
+
+}
+
+
+label{
+  color: white;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+button{
+  width: 90px;
+  height: 40px;
+  margin-bottom: 5px;
+}
+
+/* style all input elements with a required attribute */
+input:required {
+  box-shadow: 4px 4px 20px rgba(200, 0, 0, 0.85);
+}
+
+/**
+ * style input elements that have a required
+ * attribute and a focus state
+ */
+input:required:focus {
+  border: 1px solid red;
+  outline: none;
+}
+
+/**
+ * style input elements that have a required
+ * attribute and a hover state
+ */
+input:required:hover {
+  opacity: 1;
+}

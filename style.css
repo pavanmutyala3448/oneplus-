@@ -1,0 +1,93 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: green;
+  text-align: center;
+}
+nav{
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+.container a{
+  margin-left: 10px;
+  padding: 0;
+}
+.navbar-nav a{
+  margin-left: 30px;
+}
+
+.logo{
+  width:130px;
+  height:50px;
+  border-radius: 10px;
+}
+.log{
+  margin-right: 40px;
+  margin-top:auto;
+  margin-bottom: auto;
+
+}
+.bell{
+  margin-right: 20px;
+  color: white;
+
+}
+.carousel-inner .carousel-item{
+  height:600px;
+
+}
+
+h5,p{
+  color: #ec823a;
+  font-size: 25px;
+}
+.middle-2{
+  margin-top: 100px;
+  text-align: center;
+}
+
+table tr td input{
+  background-color: white;
+  border-style: none none solid none;
+  margin: 30px;
+
+
+}
+textarea{
+    border-style: none none solid none;
+}
+table {
+  text-align: center;
+  margin: auto;
+
+}
+.container .navbar-brand{
+  font-size: 30px;
+  margin: 0 0 0 20px;
+  padding: 0;
+
+}
+.container .navbar-brand h4{
+  color: red;
+font-size: 30px;
+}
+table tr td button{
+  margin-top: 18px;
+}
+.footer{
+  width: 100%;
+  height: 200px;
+  background-color:#212529;
+  margin-top:50px;
+}
+
+.footer .icon{
+  text-align: center;
+
+
+}
+.footer .icon  i{
+  margin:0 90px;
+  margin-top: 90px;
+}
